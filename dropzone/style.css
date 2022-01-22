@@ -1,0 +1,11 @@
+.caixa {
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+}
+
+.drop {
+    width: 500px;
+    height: 500px;
+    border: crimson 1px solid;
+}
